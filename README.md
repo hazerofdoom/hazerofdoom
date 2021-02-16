@@ -58,5 +58,5 @@ You can contact me through:
 **Discord** - Hazer#2359    
 **Email** - hazerofdoom@gmail.com
 
-I don't bite, only nibble gently.
+I don't bite, only nibble gently.    
 Having more people to discuss my projects with and talk too in general about web design and development would be great, so feel free to hit me up.
