@@ -31,7 +31,7 @@ I'm always looking to learn more and widen that field, so this list will most li
 
 You can contact me through:
 
-**Discord** - Hazer#2359
+**Discord** - Hazer#2359    
 **Email** - hazerofdoom@gmail.com
 
 I don't bite, only nibble gently.
