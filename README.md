@@ -27,6 +27,9 @@ If you want to keep track and follow me on my journey feel free to stalk this gi
 These are the languages and libraries that I'm familiar with and/or in the middle of learning.
 
 - HTML5 & CSS3
+- SCSS
+- Webpack & Gulp
+- NPM / Node
 - Javascript & Canvas
 - JQuery
 - PHP
