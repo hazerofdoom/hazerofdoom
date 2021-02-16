@@ -24,7 +24,7 @@ If you want to keep track and follow me on my journey feel free to stalk this gi
 
 ### Familiar Languages/Libraries
 
-These are the languages and libraries that I'm familiar with and/or in the middle of learning.
+These are the languages, libraries and frameworks that I'm familiar with and/or in the middle of learning.
 
 - HTML5 & CSS3
 - SCSS
@@ -39,6 +39,8 @@ These are the languages and libraries that I'm familiar with and/or in the middl
 - VueJS
 - Vuex & Nuxt
 - PhpBB3
+- SQL
+- Git & Github
 
 I'm always looking to learn more and widen that field, so this list will most likely grow in the near future.
 
