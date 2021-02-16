@@ -35,6 +35,7 @@ These are the languages and libraries that I'm familiar with and/or in the middl
 - CodeIgniter
 - VueJS
 - Vuex & Nuxt
+- PhpBB3
 
 I'm always looking to learn more and widen that field, so this list will most likely grow in the near future.
 
