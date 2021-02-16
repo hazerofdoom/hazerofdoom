@@ -24,7 +24,7 @@ If you want to keep track and follow me on my journey feel free to stalk this gi
 
 ### Familiar Languages/Libraries
 
-These are the languages, libraries and frameworks that I'm familiar with and/or in the middle of learning.
+These are the languages, libraries and frameworks that I'm familiar with.
 
 - HTML5 & CSS3
 - SCSS
