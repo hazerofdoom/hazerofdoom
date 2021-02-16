@@ -20,7 +20,7 @@ After a while I joined the [Voltra Online](https://www.voltra.us) team as a deve
 Talking of my friends projects, I joined the [Lasria](https://www.lasria.com/) team shortly after, where I have created a couple of HTML5 canvas games in pure Javascript with no game frameworks as well as helped on some other smaller projects and tested security. These contributions were in the form of PHPBB 3 Extensions including ACP modules (for some of them). Due to life circumstances I have temporarily stopped working with Lasria to focus on my own projects and portfolio to seek full time employment.
 
 That's the history, it's quite short but the horizon is opening up for more in the future, as I go to focus more on my own projects and dreams.    
-If you want to keep track and follow me on my journey feel free to keep track of this github or more importantly contact me (details below), as unfortunately a lot of the projects I've worked on and continue to work on are private therefore this profile looks pretty bare to the public eye.
+If you want to keep track and follow me on my journey feel free to stalk this github or more importantly contact me (details below), as unfortunately a lot of the projects I've worked on and continue to work on are private therefore this profile looks pretty bare to the public eye.
 
 ### Familiar Languages/Libraries
 
