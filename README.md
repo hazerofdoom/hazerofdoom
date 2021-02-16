@@ -44,6 +44,13 @@ These are the languages, libraries and frameworks that I'm familiar with and/or 
 
 I'm always looking to learn more and widen that field, so this list will most likely grow in the near future.
 
+### Familiar Design Programs
+
+I'm familiar with these programs:
+
+- Photoshop CS3/CS6/CC - For wireframes/raster graphics
+- Adobe Flash/Animate CS3/CS6/CC - For animations/SVG/Logos
+
 ### Contact me 👋
 
 You can contact me through:
