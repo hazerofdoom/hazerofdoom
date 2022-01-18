@@ -5,11 +5,9 @@ My little den here is currently small but expanding each day as I learn new lang
 
 ### What I'm up too
 
-I'm currently working on an avatar site in my spare time from scratch using laravel.
-This is a learning project for me to familiarize myself with laravel, plus I've always wanted to make one.
-If you're not sure what an avatar site is, Gaiaonline is the best example.
-Essentially it's a dress up doll site but with an economy with games and other methods of earning items to wear.
-I've been addicted to these kinds of sites since a young age so what better way to improve my skillset by trying to make one?
+I'm currently working on a pet site in my spare time from scratch using laravel.
+This is a learning project for me to familiarize myself with laravel.
+It includes a virtual currency, games and activities.
 
 ### What I've done
 
